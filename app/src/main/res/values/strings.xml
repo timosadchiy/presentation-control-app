@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Presentation Control App</string>
+    <string name="looking_for_device">Looking for a device...</string>
+    <string name="device_not_found">Device was not found</string>
+    <string name="device_disconnected">Device disconnected</string>
+    <string name="start">Connect to device</string>
+    <string name="action_neutral">Connected</string>
+    <string name="action_right">Right</string>
+    <string name="action_Left">Left</string>
+    <string name="action_intention_locked">Intention locked</string>
+    <string name="action_intention_unlocked">Intention unlocked</string>
+
+    <string name="band_message_connecting">Band is connecting...</string>
+    <string name="band_error_not_connected">Band isn\'t connected. Please make sure bluetooth is on and the band is in range.</string>
+    <string name="band_error_sdk_not_supported">Microsoft Health BandService doesn\'t support your SDK Version. Please update to latest SDK.</string>
+    <string name="band_error_mh_not_installed">Microsoft Health BandService is not available. Please make sure Microsoft Health is installed and that you have the correct permissions.</string>
+    <string name="band_error_not_paired">Band isn\'t paired with your phone.</string>
+    <string name="band_error_unknown">Unknown error occurred.</string>
+    
+    <string name="preferences_title">Preferences</string>
+    <string name="preferences_intention_lock">Intention lock</string>
+    <string name="preferences_intention_lock_on">Send actions only if locked</string>
+    <string name="preferences_intention_lock_off">Always send actions</string>
+    <string name="preferences_band_location">Band location</string>
+</resources>

@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('microsoft-band-gestures-0.11.aar'))

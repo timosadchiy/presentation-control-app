@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="microsoft-band-1.3.20307.2-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/presentation-control-app/microsoft-band-1.3.20307.2/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/presentation-control-app/microsoft-band-1.3.20307.2/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

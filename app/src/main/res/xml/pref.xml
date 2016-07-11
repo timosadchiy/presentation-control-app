@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:title="@string/preferences_intention_lock"
+        android:defaultValue="true"
+        android:key="intention_lock"
+        android:summaryOn="@string/preferences_intention_lock_on"
+        android:summaryOff="@string/preferences_intention_lock_off"/>
+
+    <ListPreference
+        android:key="band_location"
+        android:defaultValue="0"
+        android:title="@string/preferences_band_location"
+        android:entries="@array/band_locations"
+        android:entryValues="@array/band_location_values"/>
+
+</PreferenceScreen>

@@ -3,8 +3,8 @@ An example of using [Microsoft Band SDK for Android](https://developer.microsoft
 Android app for switching presentation slides through with Microsoft Band 2 through https://github.com/timosadchiy/presentation-control.
 
 # Requirements
-[Microsoft Band SDK for Android](https://developer.microsoftband.com/bandsdk)
-[Microsoft Band Gestures library for Android](https://bintray.com/osacci/maven/microsoft-band-gestures)
+* [Microsoft Band SDK for Android](https://developer.microsoftband.com/bandsdk)
+* [Microsoft Band Gestures library for Android](https://bintray.com/osacci/maven/microsoft-band-gestures)
 
 # Getting started
 1. Install [Microsoft Health App for Android](https://play.google.com/store/apps/details?id=com.microsoft.kapp).

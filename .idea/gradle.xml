@@ -9,16 +9,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/microsoft-band-1.3.20307.2" />
-            <option value="$PROJECT_DIR$/microsoft-band-gestures-0.11" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/microsoft-band-1.3.20307.2" />
-            <option value="$PROJECT_DIR$/microsoft-band-gestures-0.11" />
           </set>
         </option>
       </GradleProjectSettings>

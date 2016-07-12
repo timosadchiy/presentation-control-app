@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microsoft-band-1.3.20307.2/microsoft-band-1.3.20307.2.iml" filepath="$PROJECT_DIR$/microsoft-band-1.3.20307.2/microsoft-band-1.3.20307.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microsoft-band-gestures-0.11/microsoft-band-gestures-0.11.iml" filepath="$PROJECT_DIR$/microsoft-band-gestures-0.11/microsoft-band-gestures-0.11.iml" />
       <module fileurl="file://$PROJECT_DIR$/presentation-control-app.iml" filepath="$PROJECT_DIR$/presentation-control-app.iml" />
     </modules>
   </component>

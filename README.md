@@ -9,7 +9,7 @@ Android app for switching presentation slides through with Microsoft Band 2 thro
 # Getting started
 1. Install [Microsoft Health App for Android](https://play.google.com/store/apps/details?id=com.microsoft.kapp).
 2. Clone the project.
-3. Import the requirement listed above into the project.
+3. Import the requirements listed above into the project.
 4. Compile on the phone.
 5. Install and run https://github.com/timosadchiy/presentation-control on your computer.
 6. Press Connect to device in the App.
